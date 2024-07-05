@@ -26,9 +26,9 @@ return [
     'pluginName' => 'PushBullet Notifier for ZenCart',
     'pluginDescription' => 'A plugin to generate Pushbullet Pushes whenever an order is created in ZenCart. Useful to coordinate amongst team members when a new order is submitted without using the email system. Uses PushBullet API which requires sign up.',
     'pluginAuthor' => 'Paul Williams (retched)',
-    'pluginId' => 0, // ID from Zen Cart forum
+    'pluginId' => 2392, // ID from Zen Cart forum
     'zcVersions' => ['v158', 'v200', 'v201'],
-    'changelog' => '', // online URL (eg github release tag page, or changelog file there) or local filename only, ie: changelog.txt (in same dir as this manifest file)
+    'changelog' => 'changelog.md', // online URL (eg github release tag page, or changelog file there) or local filename only, ie: changelog.txt (in same dir as this manifest file)
     'github_repo' => 'https://github.com/retched/PushbulletNotifyZC', // url
     'pluginGroups' => [],
 ];
